@@ -7,4 +7,4 @@ Accuracy through SVM and RF came out to be 93% and 92% respectively after the hy
 But performance of SVM was better than RF based on precision and recall scores for all the poses.
 
 Training dataset size : 636 KB 
-Testiing dataset size : 250 KB
+Testing dataset size : 250 KB
